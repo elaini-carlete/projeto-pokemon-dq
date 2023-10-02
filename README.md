@@ -1,7 +1,7 @@
 # Projeto Pokémon 
 
 ## Descrição
-Projeto realizado durante o evento da MapaDev Week.
+Projeto realizado durante a Semana Do Zero Ao Programador Contratado, evento realizado pelos DevEmDobro.
 
 ## Objetivos
 - Cards com gifs de Pokémons, seus nomes e suas descrições. 
